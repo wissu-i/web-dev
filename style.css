@@ -1,0 +1,30 @@
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1{
+  font-weight: 600;
+  font-size: 36px;
+}
+
+h2{
+  font-weight: 600;
+  font-size: 24px;
+}
+
+p, li{
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 1;
+  grid-template-rows: 3;
+}
+
+.header{
+  text-align: center;
+}
